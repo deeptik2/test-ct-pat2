@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rp:ObjectSet xmlns:rp="http://www.soasta.com/services/repository">
+  <Object type="seeddata" schemaVersion="11454" VCSUid="253a0fd0c8e18ecc814fe8a8c7c79469" name="deepti-test2-seed" path="/data">
+    <Body>
+      <SeedData xmlns="http://www.soasta.com/services/repository" />
+    </Body>
+    <BinaryData />
+    <Description></Description>
+    <Attributes>
+      <Attribute name="encrypted">
+        <Value>false</Value>
+      </Attribute>
+      <Attribute name="type">
+        <Value>internal</Value>
+      </Attribute>
+    </Attributes>
+  </Object>
+  <SeedDataChunk>"emp_id","location"
+"111","london"
+"222","manchester"
+"333","oxford"
+</SeedDataChunk>
+</rp:ObjectSet>
